@@ -1,4 +1,4 @@
-# Progress Tracker — Abhishek
+# Progress Tracker — SHIVA KUMAR
 
 **Language:** Python
 
@@ -14,11 +14,11 @@ Add a row for every problem. **Status is the important column — be honest.**
 
 **Status codes:** `S` solved unaided · `H` needed a hint · `E` read the editorial · `R` re-solved on revision
 
-| Wk | Day | Problem | Difficulty | Time | Status | Pattern | Note |
-| -- | --- | ------- | ---------- | ---- | ------ | ------- | ---- |
-|    |     |         |            |      |        |         |      |
-|    |     |         |            |      |        |         |      |
-|    |     |         |            |      |        |         |      |
+| Wk  | Day | Problem | Difficulty | Time | Status | Pattern | Note |
+| --- | --- | ------- | ---------- | ---- | ------ | ------- | ---- |
+|     |     |         |            |      |        |         |      |
+|     |     |         |            |      |        |         |      |
+|     |     |         |            |      |        |         |      |
 
 **Fill in the pattern column every time.** By week 16 this table is your personal revision sheet, sorted by pattern — and it is far more useful than any list you could download.
 
@@ -42,18 +42,18 @@ A problem lands here when you needed a hint, read the editorial, took as long on
 
 ## 3. Contest log
 
-| # | Week | Solved | Attempted | Rank | Upsolved? | What cost me the most |
-| - | ---- | ------ | --------- | ---- | --------- | --------------------- |
-|   |      |        |           |      |           |                       |
-|   |      |        |           |      |           |                       |
-|   |      |        |           |      |           |                       |
-|   |      |        |           |      |           |                       |
-|   |      |        |           |      |           |                       |
-|   |      |        |           |      |           |                       |
-|   |      |        |           |      |           |                       |
-|   |      |        |           |      |           |                       |
-|   |      |        |           |      |           |                       |
-|   |      |        |           |      |           |                       |
+| #   | Week | Solved | Attempted | Rank | Upsolved? | What cost me the most |
+| --- | ---- | ------ | --------- | ---- | --------- | --------------------- |
+|     |      |        |           |      |           |                       |
+|     |      |        |           |      |           |                       |
+|     |      |        |           |      |           |                       |
+|     |      |        |           |      |           |                       |
+|     |      |        |           |      |           |                       |
+|     |      |        |           |      |           |                       |
+|     |      |        |           |      |           |                       |
+|     |      |        |           |      |           |                       |
+|     |      |        |           |      |           |                       |
+|     |      |        |           |      |           |                       |
 
 **Your curve is what matters, not your position.** Going from 1 to 3 problems over ten contests is a strong result.
 
@@ -142,40 +142,40 @@ Update at weeks 6, 11 and 16. **Rate honestly** — this drives what you revise.
 
 One or two lines each week. It takes two minutes and it is the fastest way to notice a pattern in your own difficulties.
 
-| Wk | Hardest thing | What clicked | Falling behind on |
-| -- | ------------- | ------------ | ----------------- |
-| 1  |               |              |                   |
-| 2  |               |              |                   |
-| 3  |               |              |                   |
-| 4  |               |              |                   |
-| 5  |               |              |                   |
-| 6  |               |              |                   |
-| 7  |               |              |                   |
-| 8  |               |              |                   |
-| 9  |               |              |                   |
-| 10 |               |              |                   |
-| 11 |               |              |                   |
-| 12 |               |              |                   |
-| 13 |               |              |                   |
-| 14 |               |              |                   |
-| 15 |               |              |                   |
-| 16 |               |              |                   |
+| Wk  | Hardest thing | What clicked | Falling behind on |
+| --- | ------------- | ------------ | ----------------- |
+| 1   |               |              |                   |
+| 2   |               |              |                   |
+| 3   |               |              |                   |
+| 4   |               |              |                   |
+| 5   |               |              |                   |
+| 6   |               |              |                   |
+| 7   |               |              |                   |
+| 8   |               |              |                   |
+| 9   |               |              |                   |
+| 10  |               |              |                   |
+| 11  |               |              |                   |
+| 12  |               |              |                   |
+| 13  |               |              |                   |
+| 14  |               |              |                   |
+| 15  |               |              |                   |
+| 16  |               |              |                   |
 
 ---
 
 ## 8. Final summary (week 16)
 
-|                              |   |
-| ---------------------------- | - |
-| Total problems solved        |   |
-| Solved unaided (S)           |   |
-| Needed a hint (H)            |   |
-| Read the editorial (E)       |   |
-| Red list remaining           |   |
-| Contest trend (first → last) |   |
-| Mock scores (R1 → R2 → R3)   |   |
-| **Strongest three patterns** |   |
-| **Weakest three patterns**   |   |
+|                              |     |
+| ---------------------------- | --- |
+| Total problems solved        |     |
+| Solved unaided (S)           |     |
+| Needed a hint (H)            |     |
+| Read the editorial (E)       |     |
+| Red list remaining           |     |
+| Contest trend (first → last) |     |
+| Mock scores (R1 → R2 → R3)   |     |
+| **Strongest three patterns** |     |
+| **Weakest three patterns**   |     |
 
 **What changed most about how I approach an unfamiliar problem:**
 
