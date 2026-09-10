@@ -1,4 +1,4 @@
-# Problem-Solving Progress Tracker — Abhishek
+# Problem-Solving Progress Tracker — SHIVA KUMAR
 
 **Language:** Python  
 **Started:** 08-09-2026  
@@ -9,6 +9,7 @@
 This repository tracks my progress throughout the program.
 
 It records:
+
 - Problems attempted and solved
 - Problem-solving patterns
 - Time taken and solution status
